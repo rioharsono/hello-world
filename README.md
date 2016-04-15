@@ -5,4 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse id venenati
 
 test update from desktop
 
-branch b
+
+branch A + b
